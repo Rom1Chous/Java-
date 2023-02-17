@@ -23,7 +23,7 @@ public class Discri {
                 System.out.println(-b + "+i" +Math.sqrt(delta) / (2*a));
 
             } else if (delta == 0) {
-                System.out.println("Ce polynome a une de racine double");
+                System.out.println("Ce polynome  a une de racine double");
                 System.out.print(xo);
             } else if (delta > 0) {
                 System.out.println("Ce polynome a deux racines :");
